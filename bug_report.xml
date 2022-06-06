@@ -1,1 +1,18 @@
-
+<Summary>[NOTIFICATION] The Notification tab is empty</Summary>
+<ID>12345</ID>
+<BuildNumber>v1.2.3</BuildNumber>
+<Priority>High</Priority>
+<Severity>Minor</Severity>
+<Assignee>Dev teammate</Assignee>
+<ReportedBy>Tester teammate</ReportedBy>
+<ReportedOn>04.06.2022</ReportedOn>
+<Status>Open</Status>
+<Environment>iPhoneXS iOS 15</Environment>
+<Precondition>The application is installed, the user is authenticated</Precondition>
+<Step1>Launch the application</Step1>
+<Step2>Tap bottom right corner of the screen (Hand icon)</Step2>
+<Step3>Tap ‘Claim’ button</Step3>
+<Step4>Tap ‘Notification’ tab and observe it</Step4>
+<ExpectedResult>The ‘Notification’ menu opens with another reward or with message ‘You have no rewards to claim’ and ‘Find games’ button</ExpectedResult>
+<ActualResult>The notification tab is empty</ActualResult>
+<Attachments>https://linkToAttachments.com/image</Attachments>
